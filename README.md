@@ -5,3 +5,4 @@ This repository is for CSC 2431.
 # Class: CSC 2431
 # Teacher: Mr. Carlos
 # Description: In order to learn about Data Structure 2.
+# Do my best!
